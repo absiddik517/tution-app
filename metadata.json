@@ -1,0 +1,6 @@
+{
+  "name": "Tuition Tracker",
+  "description": "An offline-first Android application to easily track student attendance, tuition fees, and homework/academic progress.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
